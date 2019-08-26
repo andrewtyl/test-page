@@ -22,7 +22,7 @@ header {
     border: 1px solid black;
     display: flex;
     flex-direction: column;
-    background-color: rgb(209, 0, 0);
+    background-color: rgb(124, 124, 124);
     font-family: 'Lucida Fax Regular';
 }
 
@@ -46,12 +46,12 @@ header > h2 {
 }
 
 nav {
-    height: 40px;
+    height: 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 
 .navButton {
